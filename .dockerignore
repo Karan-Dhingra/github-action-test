@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+.env.*
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+build-artifacts
+coverage
+test
+temp
+logs
+*.log
